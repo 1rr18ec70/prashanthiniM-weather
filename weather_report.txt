@@ -1,0 +1,6 @@
+Weather Stats for - BANGALORE  || 28 Jul 2021 | 11:49:08 AM
+-------------------------------------------------------------
+Current temperature is: 28.02 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 56 %
+Current wind speed    : 6.17kmph
